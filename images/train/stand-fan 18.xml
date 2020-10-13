@@ -1,0 +1,26 @@
+<annotation>
+	<folder>standing fan images</folder>
+	<filename>stand-fan 18.jpg</filename>
+	<path>C:\Users\dammy -pc\Downloads\Standing fan\standing fan images\stand-fan 18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>standing_fan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1574</xmin>
+			<ymin>420</ymin>
+			<xmax>3280</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>
